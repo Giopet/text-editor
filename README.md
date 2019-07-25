@@ -7,7 +7,7 @@ commons-io-2.5 library
 ### Built With
 Netbeans IDE for java
 
-### Features
+### Functionalities
 - Open text file
 - Clear content
 - Save 
