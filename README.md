@@ -1,5 +1,6 @@
 # text-editor
 simple text editor written in java
-#Prerequisites
+
+## Prerequisites
 Netbeans IDE for java
 
